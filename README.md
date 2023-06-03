@@ -1,17 +1,17 @@
 # House-Price-Evaluation-PySpark-MLmodels
  
- ## 1. Project Context
+## 1. Project Context
 
-      - Kaggle Source:
-      https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- Kaggle Source:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-      - Overall Description:
-      Used creative feature engineering methods, 
-      and advanced machine learning models, 
-      to accurately predict each house price in Ames based on multiple numerical and categorical house features.
+- Overall Description:
+Used creative feature engineering methods, 
+and advanced machine learning models, 
+to accurately predict each house price in Ames based on multiple numerical and categorical house features.
 
-      - Language & Environment: 
-      The project was coded with PySpark on Databricks. 
+- Language & Environment: 
+The project was coded with PySpark on Databricks.           
 
  ## 2. Data Description
 
