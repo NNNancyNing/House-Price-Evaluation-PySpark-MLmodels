@@ -2,14 +2,15 @@
  
  ## 1. Project Context
 
-      Based on this kaggle competition:
+      - Kaggle Source:
       https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-      Used 
-      creative feature engineering methods, 
+      - Overall Description:
+      Used creative feature engineering methods, 
       and advanced machine learning models, 
       to accurately predict each house price in Ames based on multiple numerical and categorical house features.
 
+      - Language & Environment: 
       The project was coded with PySpark on Databricks. 
 
  ## 2. Data Description
@@ -19,7 +20,7 @@
       Testing data: contains 1459 observations and 80 same features as the train set.
 
  ## 3. Feature Engineering & Models Training
- 
+
       Feature Engineering Steps: missing values solution; label encoding; adding in customized features
       Model Training:  building model pipeline(OneHotEncoder, StringIndexer, VectorAssembler, CrossValidator);
                        Training models: linear regression, XGBoost, Random Forest, GBT
