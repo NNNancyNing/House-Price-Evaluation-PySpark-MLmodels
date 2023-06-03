@@ -16,10 +16,10 @@ The project was coded with PySpark on Databricks.
  ## 2. Data Description
 
 - **Training data**: 
-1460 observations, 80 features describing physical, geographical and selling characteristics of individual houses, together with 1 outcome variable showing the true sale price.
+1460 observations, 80 features describing physical, geographical and selling characteristics of individual houses, together with 1 outcome variable showing the true sale price. 
 
+Feature examples:
 <img src="https://github.com/NNNancyNing/House-Price-Evaluation-PySpark-MLmodels/blob/main/Image1.png" width="500" height="400"/>
-
 
 - **Testing data**: 
 contains 1459 observations and 80 same features as the train set.
