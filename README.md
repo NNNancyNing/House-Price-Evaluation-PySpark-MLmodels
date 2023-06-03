@@ -32,7 +32,8 @@ contains 1459 observations and 80 same features as the train set.
 missing values solution; label encoding; adding in customized features
       
 - **Model Training**:  
-building model pipeline(OneHotEncoder, StringIndexer, VectorAssembler, CrossValidator); 
+Building model pipeline(OneHotEncoder, StringIndexer, VectorAssembler, CrossValidator); 
+
 Training models: Linear Regression, XGBoost, Random Forest, GBT
 
 - Well-tuned XGBoost gave the best performance on test set.
