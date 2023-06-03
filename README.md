@@ -1,22 +1,25 @@
 # House-Price-Evaluation-PySpark-MLmodels
  
  ## 1. Project Context
-      · Based on this kaggle competition:
+
+      Based on this kaggle competition:
       https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-      · Used 
+      Used 
       creative feature engineering methods, 
       and advanced machine learning models, 
       to accurately predict each house price in Ames based on multiple numerical and categorical house features.
 
-      · The project was coded with PySpark on Databricks. 
+      The project was coded with PySpark on Databricks. 
 
  ## 2. Data Description
+
       Training data: 1460 observations, 80 features describing physical, geographical and selling characteristics of individual houses, together with 1 outcome variable showing the true sale price.
 
       Testing data: contains 1459 observations and 80 same features as the train set.
 
  ## 3. Feature Engineering & Models Training
+ 
       Feature Engineering Steps: missing values solution; label encoding; adding in customized features
       Model Training:  building model pipeline(OneHotEncoder, StringIndexer, VectorAssembler, CrossValidator);
                        Training models: linear regression, XGBoost, Random Forest, GBT
