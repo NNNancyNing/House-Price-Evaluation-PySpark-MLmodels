@@ -20,7 +20,7 @@ The project was coded with PySpark on Databricks.
 
     Feature examples:
 
-<img src="https://github.com/NNNancyNing/House-Price-Evaluation-PySpark-MLmodels/blob/main/Image1.png" width="500" height="400"/>
+    <img src="https://github.com/NNNancyNing/House-Price-Evaluation-PySpark-MLmodels/blob/main/Image1.png" width="500" height="400"/>
 
 
 - **Testing data**: 
