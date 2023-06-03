@@ -18,7 +18,7 @@ The project was coded with PySpark on Databricks.
 - **Training data**: 
 1460 observations, 80 features describing physical, geographical and selling characteristics of individual houses, together with 1 outcome variable showing the true sale price.
 
-![Data Description](/Users/nancy/Desktop/HK Fulltime Job/Github Practice/House-Price-Evaluation-PySpark-MLmodels/Data Description Image.png)
+![Img](https://file%2B.vscode-resource.vscode-cdn.net/Users/nancy/Desktop/HK%20Fulltime%20Job/Github%20Practice/Data%20Description%20Image.png?version%3D1685774141993)
 
 - **Testing data**: 
 contains 1459 observations and 80 same features as the train set.
@@ -30,6 +30,6 @@ missing values solution; label encoding; adding in customized features
       
 - **Model Training**:  
 building model pipeline(OneHotEncoder, StringIndexer, VectorAssembler, CrossValidator); 
-Training models: linear regression, XGBoost, Random Forest, GBT
+Training models: Linear Regression, XGBoost, Random Forest, GBT
 
-Well-tuned XGBoost gave the best performance on test set.
+- Well-tuned XGBoost gave the best performance on test set.
